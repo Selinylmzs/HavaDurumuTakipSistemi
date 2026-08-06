@@ -48,10 +48,10 @@ Bu proje; harici bir hava durumu API'si üzerinden anlık sıcaklık, nem, bası
 
 Uygulamanın arayüz tasarımları, karanlık ve aydınlık temaları ile farklı şehirlerdeki dinamik görünümleri aşağıda listelenmiştir:
 
-| 1. İstanbul (Karanlık Tema) | 2. Saatlik/Haftalık Detaylar | 3. Ankara (Parçalı Bulutlu) |
+| 1. İstanbul (Karanlık Tema) | 2. İstanbul Saatlik/Haftalık Detaylar | 3. Ankara (Parçalı Bulutlu) |
 |:---:|:---:|:---:|
 | <img src="gorseller/gorsel1.jpeg" width="240"> | <img src="gorseller/gorsel2.jpeg" width="240"> | <img src="gorseller/gorsel3.jpeg" width="240"> |
-| **4. Ankara Detaylar** | **5. Paris (Aydınlık Tema)** | **6. Paris Arayüz Detayı** |
+| **4. Ankara Saatlik/Haftalık Detaylar** | **5. Paris (Aydınlık Tema)** | **6. Paris Saatlik/Haftalık Detaylar** |
 | <img src="gorseller/gorsel4.jpeg" width="240"> | <img src="gorseller/gorsel5.jpeg" width="240"> | <img src="gorseller/gorsel6.jpeg" width="240"> |
 
 ---
