@@ -44,44 +44,15 @@ Bu proje; harici bir hava durumu API'si üzerinden anlık sıcaklık, nem, bası
 
 ---
 
-## 📸 Görsel Yolculuk
+## 📸 Görsel Yolculuk (Ekran Görüntüleri)
 
-Uygulamanın arayüz tasarımı, dinamik renk şemaları ve akıllı öneri kartları aşağıdaki ekran görüntülerinde detaylandırılmıştır:
+Uygulamanın arayüz tasarımları, karanlık ve aydınlık temaları ile farklı şehirlerdeki dinamik görünümleri aşağıda yan yana listelenmiştir:
 
-### 1. İstanbul - Güneşli Arayüzü (Karanlık Tema)
-Güneşli hava koşullarında koyu mavi tonlarına bürünen arayüz. Ana kart üzerinde anlık sıcaklık, hissedilen sıcaklık, rüzgar hızı, nem ve basınç değerleri listelenmektedir. Akıllı öneri kartında güneşli havaya uygun Türkçe yürüyüş tavsiyesi yer almaktadır.
-
-<p align="center">
-  <img src="screenshots/gorsel1.jpg" width="300" alt="Karanlık Tema - İstanbul Güneşli Görünümü"/>
-</p>
-
-### 2. Saatlik ve Haftalık Detaylar (Karanlık Tema)
-Aynı ekranın alt bölümünde; yatayda kaydırılabilir **Bugün Saatlik Durum** çubuğu (gece saatlerine ait durum ikonları ve sıcaklıklar) ile dinamik durum ikonlarına sahip **7 Günlük Tahmin** listesi gösterilmektedir.
-
-<p align="center">
-  <img src="screenshots/gorsel2.jpg" width="300" alt="Karanlık Tema - Tahmin Kartları"/>
-</p>
-
-### 3. Ankara - Parçalı Bulutlu Arayüzü (Karanlık Tema)
-Parçalı bulutlu hava koşulunda arayüz renk şemasının gri-mavi tonlara bürünmesi. Akıllı öneri kartında bulutlu hava koşullarına uygun, serin havada yürüyüş yapmayı tavsiye eden öneri dinamik olarak güncellenmiştir.
-
-<p align="center">
-  <img src="screenshots/gorsel3.jpg" width="300" alt="Karanlık Tema - Ankara Parçalı Bulutlu"/>
-</p>
-
-### 4. Saatlik ve Haftalık Detaylar - Ankara (Karanlık Tema)
-Ankara araması sonrasındaki saatlik sıcaklık akışı ve haftalık tahmin verilerinin kullanıcıya sunumu.
-
-<p align="center">
-  <img src="screenshots/gorsel4.jpg" width="300" alt="Karanlık Tema - Ankara Tahmin Raporları"/>
-</p>
-
-### 5. Paris - Güneşli Arayüzü (Aydınlık Tema)
-Kullanıcının üst paneldeki simgeye tıklayarak **Aydınlık Moda** geçmesiyle birlikte, güneşli havaya özel açık mavi ve sarı gradyan geçişine sahip dinamik tema görünümü. UV indeksinin (3.4) seviyesine göre güneş gözlüğü takılması önerisi sunulmaktadır.
-
-<p align="center">
-  <img src="screenshots/gorsel5.jpg" width="300" alt="Aydınlık Tema - Paris Görünümü"/>
-</p>
+| 1. İstanbul (Karanlık Tema) | 2. Saatlik/Haftalık Detaylar | 3. Ankara (Parçalı Bulutlu) |
+|:---:|:---:|:---:|
+| <img src="gorsel1.jpg" width="240"> | <img src="gorsel2.jpg" width="240"> | <img src="gorsel3.jpg" width="240"> |
+| **4. Ankara Detaylar** | **5. Paris (Aydınlık Tema)** | |
+| <img src="gorsel4.jpg" width="240"> | <img src="gorsel5.jpg" width="240"> | |
 
 ---
 
